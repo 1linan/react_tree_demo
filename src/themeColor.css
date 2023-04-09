@@ -1,0 +1,31 @@
+:root {
+
+    --bg:#fff;
+    /* 字体 */
+    --club_name_fonts:apple-system;
+
+
+
+
+    /*字体颜色*/
+    --club_color:red;
+
+
+
+    /**背景颜色*/
+    --club_bg:#fff;
+
+    /**Menu**/
+    --menu_round_bg:#8b949e;
+    --menu_round_bg2:#000;
+    --border_bg:#8b949e;
+    --border_bg2:#000;
+    --border_bg3:#fff;
+
+    /* card */
+    --text-color:#000;
+    --text-color2:#8b949e;
+    --border-radius:12px;
+    --space:24px;
+    --space2:32px;
+}
